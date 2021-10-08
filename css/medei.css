@@ -1,0 +1,234 @@
+@media (max-width: 1200px) {
+    .container {
+        max-width: 960px
+    }
+
+    .overview-video {
+        max-width: 400px;
+    }
+
+    .imgs-1 {
+        left: -215px;
+    }
+
+    .imgs-2 {
+        left: -90px;
+    }
+
+    .imgs-3 {
+        right: 120px;
+    }
+
+    .input-name {
+        margin-bottom: 20px;
+    }
+
+    .input-num {
+        width: 370px;
+    }
+
+    #select-services {
+        width: 374px;
+    }
+
+}
+
+@media (max-width: 992px) {
+    .container {
+        max-width: 800px
+    }
+
+    .burger-menu-box {
+        display: flex;
+    }
+
+    .header-ul {
+        display: none;
+    }
+    .mobile-menu{
+        display: flex;
+        position: fixed;
+        top:0;
+        left: 0;
+        background: #ED4C5C;
+        width: 50vw;
+        height: 100vh;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        z-index: 10;
+
+    }
+    .header-nav-li{
+        margin: 0 0 15px 0;
+    }
+
+
+    .button-box {
+        display: none;
+    }
+    .overview-info-box{
+        padding: 5px;
+    }
+    .overview-title{
+        font-size: 26px;
+        line-height: 35px;
+    }
+
+    .overview-video {
+        height: 100%;
+        max-width: 295px;
+    }
+
+    .features-box {
+        height: 230px;
+    }
+
+    .features-info {
+        width: 195px;
+        height: 240px;
+    }
+
+    .stay-title {
+        font-size: 20px;
+    }
+
+    .stay-text {
+        font-size: 12px;
+    }
+
+    .imgs-1 {
+        max-width: 300px;
+        left: -385px;
+        top: 18px
+    }
+
+    .imgs-2 {
+        max-width: 290px;
+        left: -110px;
+    }
+
+    .imgs-3 {
+        max-width: 290px;
+        right: 275px;
+    }
+
+    .input-num {
+        width: 290px;
+    }
+
+    #select-services {
+        width: 294px;
+    }
+
+    .col-3 {
+        width: 50%;
+    }
+
+    .footer-text {
+        max-width: 250px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 622px
+    }
+
+    .hero-title {
+        font-size: 55px
+    }
+
+    .hero-text {
+        font-size: 20px;
+    }
+
+    .hero-button {
+        font-size: 12px;
+        line-height: 12px;
+    }
+
+    .overview-title {
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 15px;
+    }
+
+    .overview-video {
+        height: 50%;
+        max-width: 220px;
+    }
+
+    .overview-text {
+        font-size: 14px;
+        line-height: 115%
+    }
+
+    .overview-button {
+        bottom: 55px;
+    }
+    .features-info{
+        width: 150px;
+        height: 200px;
+        padding: 20px 22px;
+    }
+    .features-info-title{
+        margin-bottom: 7px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .stay-title{
+        font-size: 17px;
+        margin-bottom: 17px;
+    }
+    .stay-text{
+        margin-bottom: 20px;
+    }
+    .imgs-1{
+        max-width: 260px;
+        left: -400px;
+        top: 24px;
+    }
+    .imgs-2{
+        max-width: 255px;
+        left: -95px;
+        top: 25px;
+    }
+    .imgs-3{
+        max-width: 255px;
+        right: 312px;
+        top: 25px;
+    }
+    .col-6{
+        padding: 50px;
+    }
+    .input-name{
+        padding: 11px 0 11px 11px;
+        width: 215px;
+        margin-bottom:12px;
+    }
+
+    .input-num{
+        padding: 11px 0 11px 11px;
+        width: 220px;
+        margin: 12px 0;
+    }
+    #select-services{
+        width: 219px;
+        padding: 11px 0 11px 11px;
+    }
+    .button-contact{
+        padding: 14px 20px;
+        font-size: 12px;
+    }
+
+
+}
+
+@media (max-width: 576px) {
+
+}
+
+@media (max-width: 480px) {
+
+}
