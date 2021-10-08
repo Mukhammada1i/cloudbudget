@@ -153,8 +153,8 @@ header {
 
 .hero {
     text-align: center;
-    background: url("../images/bg.png") center/cover ;
-    /*background: linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%), url("../images/bg.png") center/cover;*/
+
+    background: linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%), url("../images/bg.png") center/cover;
     color: #FFFFFF;
     height: 100vh;
     min-height: 550px;

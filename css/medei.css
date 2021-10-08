@@ -200,7 +200,7 @@
         top: 25px;
     }
     .col-6{
-        padding: 50px;
+        padding: 0 50px;
     }
     .input-name{
         padding: 11px 0 11px 11px;
@@ -226,7 +226,35 @@
 }
 
 @media (max-width: 576px) {
-
+    .hero-title{
+        font-size: 35px;
+    }
+    .hero-text {
+        font-size: 14px;
+    }
+    .hero-button{
+        padding: 12px 30px;
+    }
+    .col-6{
+        width: 100%;
+    }
+    .col-4{
+        width: 100%;
+    }
+    .imgs-1{
+        max-width: 260px;
+        left: -225px;
+        top: 24px;
+    }
+    .imgs-2{max-width: 255px;
+        left: -8px;
+        top: 25px;
+    }
+    .imgs-3{
+        max-width: 255px;
+        right: 217px;
+        top: 25px;
+    }
 }
 
 @media (max-width: 480px) {
